@@ -47,3 +47,7 @@ int main(){
     return 0;
 
 }
+
+
+
+Output :- ![outputScreenShot](https://github.com/user-attachments/assets/507fb77e-9fe8-454a-b72e-25dde2a2b4b6)
